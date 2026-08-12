@@ -1,0 +1,6 @@
+{
+  "name": "Matcha Coffee Lab",
+  "description": "Custom Matcha & Coffee fusion beverage creation, signature drink combinations, interactive beverage visualizer, and custom ordering app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
